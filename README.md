@@ -20,7 +20,8 @@ I'm currently seeking roles in **data centre infrastructure, system engineering,
 - Working toward CDFOS (Certified Data Centre Facilities Operations Specialist)
 
 ## 📄 Links
-- [View my CV]([#](https://github.com/YasarYK/CV/blob/main/Yasar_Khan_CV_Finland.pdf)) <!-- replace with your CV link once uploaded -->
+- [View my CV](https://github.com/YasarYK/CV/blob/main/Yasar_Khan_CV_Finland.pdf)
 - [LinkedIn](https://linkedin.com/in/yasar-khan-10b71120)
 
+📍 Based in Vaasa, Finland | Open to opportunities
 📍 Based in Vaasa, Finland | Open to opportunities
